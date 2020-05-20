@@ -1,1 +1,1 @@
-# learning-typescript
+# Exemplo de CRUD utilizando Typescript
